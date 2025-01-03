@@ -25,5 +25,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   },
-  cleanUrls: true
+  cleanUrls: true,
+  base: '/learn_vite_press/'
 })
