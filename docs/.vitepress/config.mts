@@ -20,8 +20,11 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/guoxiaoshe' }
     ]
+  },
+  vite: {
+    assetsInclude: ['**/*.awebp'] // 添加 .awebp 文件为静态资源
   },
   cleanUrls: true,
   base: '/learn_vite_press/'
