@@ -14,7 +14,8 @@ export default defineConfig({
       {
         text: '侧边栏',
         items: [
-          // { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'LLM', link: '/AI' },
+          { text: '工作日志', link: '/work_log' },
         ]
       }
     ],
