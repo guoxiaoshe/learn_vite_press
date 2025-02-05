@@ -36,6 +36,6 @@
 众包(CrowdSourcing)：通过众包平台如Amazon Mechanical Turk，利用标注队伍分配标注任务，减少所需时间
 
 ## 参考文献
-[【人工智能技术专题】「入门到精通系列教程」零基础带你进军人工智能领域的全流程技术体系和实战指南（LLM、AGI和AIGC都是什么）](https://juejin.cn/post/7242965902877917245)
+[LLM、AGI和AIGC都是什么](https://juejin.cn/post/7242965902877917245)
 [NLP、GPT-Pre-Training和数据标注都是什么](https://juejin.cn/post/7243311106685059129)
 
